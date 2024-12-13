@@ -1,0 +1,21 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@using Microsoft.AspNetCore.Mvc;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutGrid.cshtml";
+}
+
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Product>
+
+
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("PartialProduct", item)
+}
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions()
+{
+    LiElementClasses = new List<String> { "page-item" },
+    PageClasses = new List<String> { "page-link" }
+})
+

@@ -1,0 +1,3257 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShoeStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoeStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\ShoeDan.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\ShoeDan.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\VietNam.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\VietNam.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\bannerShoe.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\bannerShoe.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\5-su-kien-sneaker-dang-chu-y-nhat-nam-2024.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\5-su-kien-sneaker-dang-chu-y-nhat-nam-2024.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\Du-doan-phong-cach-sneaker-se-tro-thanh-trend-nam-2025.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\Du-doan-phong-cach-sneaker-se-tro-thanh-trend-nam-2025.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\Giay-Nike-Air-Zoom-GT-Hustle-2-Victor-Wembanyama-768x432.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\Giay-Nike-Air-Zoom-GT-Hustle-2-Victor-Wembanyama-768x432.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-Blue.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-11-Retro-Gamma-Blue.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-11-Retro-Gamma-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-3-Retro-Racer-Blue.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-3-Retro-Racer-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-34-Guo-Ailun-GS.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-34-Guo-Ailun-GS.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-35-Chinese-New-Year.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-35-Chinese-New-Year.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-4-University-Blue.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-4-University-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-5-Retro-Low-Knicks.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-5-Retro-Low-Knicks.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Air-Jordan-6-Retro-Yellow-Ochre.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Air-Jordan-6-Retro-Yellow-Ochre.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\Nike-Air-Jordan-2-Retro-J-Balvin.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\Nike-Air-Jordan-2-Retro-J-Balvin.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\air-jordan-7-retro-pantone.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\air-jordan-7-retro-pantone.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\categories\\nike-air-jordan-legacy-312-low-white-university-red-game-royal.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\nike-air-jordan-legacy-312-low-white-university-red-game-royal.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\main.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\LayoutOgani\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-Women.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-Women.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\A-Ma-Maniere-x-Air-Jordan-3-Retro-SP-Raised-By-WomenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-Toe.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-Toe.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-Alternate-Royal-ToeDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-Swooshers.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-Swooshers.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-Low-SE-Mighty-SwooshersDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-1-x-Travis-Scott-x-Fragment-Retro-High-OG-Military-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Adapt-‘White.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Adapt-‘White.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Adapt-‘WhiteDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-Grey.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-Grey.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-CMFT-Low-Cool-GreyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Legend-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Legend-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Legend-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Legend-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Legend-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Legend-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Legend-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Legend-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Low-Space-Jam.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Low-Space-Jam.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Low-Space-JamDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Gamma-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Gamma-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Gamma-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-Black.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-Black.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary-BlackDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-Anniversary.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Jubilee-25th-AnniversaryDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Diffused-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-Violet.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-Violet.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-11-Retro-Low-Pure-VioletDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-Concord.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-Concord.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Bred-ConcordDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-Ocean.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-Ocean.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Jumpman-Trey-Deep-OceanDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-Haze.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-Haze.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Craft-Sunset-HazeDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-Python.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-Python.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-PythonDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-Red.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-Red.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Off-White-White-RedDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-Brown.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-Brown.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-SP-Rock-BrownDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-Dragon.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-Dragon.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Low-Year-of-the-DragonDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Radio-Raheem.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Radio-Raheem.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Retro-Radio-RaheemDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Trey-Light-Graphite.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Trey-Light-Graphite.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-Trey-Light-GraphiteDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-Malachite.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-Malachite.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-2-x-Nina-Chanel-Abney-Retro-Low-SE-White-and-MalachiteDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Cardinal-Red.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Cardinal-Red.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Cardinal-RedDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Midnight-Navy.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Midnight-Navy.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Midnight-NavyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-NRG-Tinker.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-NRG-Tinker.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-NRG-TinkerDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Racer-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Racer-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-Racer-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-White-Cement-Reimagined.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-White-Cement-Reimagined.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-3-Retro-White-Cement-ReimaginedDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Amber-Rise.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Amber-Rise.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Amber-RiseDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Amber-RiseDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Amber-RiseDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Amber-RiseDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Amber-RiseDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Amber-RiseDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Blue-Void.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Blue-Void.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Blue-VoidDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Blue-VoidDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Blue-VoidDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Blue-VoidDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Blue-VoidDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Blue-VoidDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Guo-Ailun-GS.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Guo-Ailun-GS.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Guo-Ailun-GSDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-EYBL.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-EYBL.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-EYBLDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-EYBLDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-EYBLDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-EYBLDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-EYBLDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-EYBLDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-Heritage.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-Heritage.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-HeritageDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-HeritageDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-HeritageDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-HeritageDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-HeritageDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-HeritageDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-Vapor-Green.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-Vapor-Green.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Low-Vapor-GreenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-Unite.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-Unite.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-UniteDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-UniteDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-UniteDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-UniteDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-34-UniteDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-34-UniteDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-Chinese-New-Year.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-Chinese-New-Year.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-Chinese-New-YearDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNA-GS.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNA-GS.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNA-GSDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNA-GSDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNA-GSDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNA-GSDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNA-GSDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNA-GSDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNA.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNA.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNADetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNADetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNADetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNADetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-DNADetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-DNADetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-PF-Sisterhood.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-PF-Sisterhood.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-35-PF-SisterhoodDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Deep-Royal-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Deep-Royal-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Deep-Royal-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Jordan-4-Winter-Loyal-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-11Lab4.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-11Lab4.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-11Lab4Detail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Blank-Canvas.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Blank-Canvas.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Blank-CanvasDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Cacao-Wow.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Cacao-Wow.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Cacao-WowDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Fear-2024.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Fear-2024.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Fear-2024Detail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Frozen-Moments.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Frozen-Moments.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Frozen-MomentsDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-Black.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-Black.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlackDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Military-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Oxidized-Green.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Oxidized-Green.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-Oxidized-GreenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-SE-GS-Craft.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-SE-GS-Craft.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-SE-GS-CraftDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-White-Oreo.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-White-Oreo.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-Retro-White-OreoDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-University-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-University-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-University-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-University-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-University-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-University-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-4-University-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-4-University-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Low-Golf-Black-Grape.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Low-Golf-Black-Grape.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Low-Golf-Black-GrapeDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Racer-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Racer-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Racer-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Racer-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Racer-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Racer-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Racer-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Racer-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-Grape.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-Grape.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-BG-Pre-GrapeDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-Low-Knicks.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-Low-Knicks.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-Low-KnicksDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-Oregon.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-Oregon.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-OregonDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-University-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-University-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-5-Retro-SE-University-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Electric-Green.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Electric-Green.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Electric-GreenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Olympic.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Olympic.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-OlympicDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Reverse-Oreo.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Reverse-Oreo.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Reverse-OreoDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-UNC.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-UNC.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-UNCDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-UNCDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-UNCDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-UNCDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-UNCDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-UNCDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Yellow-Ochre.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Yellow-Ochre.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-6-Retro-Yellow-OchreDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-China.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-China.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-7-Retro-GC-Greater-ChinaDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Exploration-Unit.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Exploration-Unit.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Exploration-UnitDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Low-White.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Low-White.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-Low-WhiteDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-Navy.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-Navy.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-White-Mystic-NavyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBIT.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBIT.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Legacy-312-YEAR-OF-THE-RABBITDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Tatum-3-PF-Zen.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Tatum-3-PF-Zen.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Air-Jordan-Tatum-3-PF-ZenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Air-Jordan-1-High.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Air-Jordan-1-High.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Air-Jordan-1-HighDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Jordan-1-Low-Grey.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Jordan-1-Low-Grey.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Dior-x-Jordan-1-Low-GreyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-It.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-It.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Golf-Nike-Air-Jordan-5-Low-Golf-NRG-Wing-ItDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-Morpho.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-Morpho.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Guo-Ailun-x-Air-Jordan-35-MorphoDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-Zoo.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-Zoo.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-34-Welcome-To-The-ZooDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-Gift.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-Gift.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Jayson-Tatum-x-Air-Jordan-35-PF-Greatest-GiftDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-Deception.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-Deception.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Luka-Doncic-x-Air-Jordan-35-Low-Cosmic-DeceptionDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-Grey.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-Grey.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nigel-Sylvester-x-Air-Jordan-4-RM-SP-Driveway-GreyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Low-Aluminum.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Low-Aluminum.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Low-AluminumDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-Iris.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-Iris.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-Dark-IrisDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-1-Mid-SE-Ice-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-W.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-W.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-11-Retro-Low-Yellow-Snakeskin-WDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-J-Balvin.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-J-Balvin.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-J-BalvinDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-Blue.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-Blue.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-Low-SP-Off-White-Black-BlueDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-Grey.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-Grey.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-2-Retro-‘Cement-GreyDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-Red.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-Red.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-Fire-RedDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-Wizards.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-Wizards.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-3-Retro-WizardsDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-Black.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-Black.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Golf-‘WhiteMilytari-NeutralL-Gray-BlackDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-Bred.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-Bred.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-BredDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-Master.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-Master.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-4-Retro-Zen-MasterDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-Prince.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-Prince.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-Grape-Fresh-PrinceDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-Easter.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-Easter.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-5-Retro-SE-EasterDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GS.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GS.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Midnight-Navy-GSDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GS.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GS.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-6-Retro-Washed-Denim-GSDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-Day.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-Day.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Air-Jordan-Legacy-312-Valentines-DayDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Jordan-5-AM-‘Soar.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Jordan-5-AM-‘Soar.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Nike-Jordan-5-AM-‘SoarDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-Chicago.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-Chicago.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High-OG-ChicagoDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-High.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-1-Retro-HighDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-4-Sail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-4-Sail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Off-White-x-Air-Jordan-4-SailDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-Paname.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-Paname.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Paris-Saint-Germain-x-Air-Jordan-7-Retro-PanameDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-Shimmer.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-Shimmer.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Patta-x-Air-Jordan-7-Retro-OG-SP-ShimmerDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-Heritage.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-Heritage.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Rui-Hachimura-x-Air-Jordan-34-HeritageDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-Jack.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-Jack.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Cactus-JackDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-Khaki.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-Khaki.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Travis-Scott-x-Air-Jordan-6-Retro-British-KhakiDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-Noir.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-Noir.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Union-LA-x-Air-Jordan-4-Retro-Off-NoirDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-Noah.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-Noah.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Zion-Williamson-x-Air-Jordan-34-NoahDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-mauve-off-noir.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-mauve-off-noir.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-mauve-off-noirDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-mauve-off-noirDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-mauve-off-noirDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-mauve-off-noirDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-mauve-off-noirDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-mauve-off-noirDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-concord.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-concord.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-concordDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-concordDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-concordDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-concordDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-concordDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-concordDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-cherrywood.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-cherrywood.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-cherrywoodDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-air.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-air.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-low-look-up-in-the-airDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-wings.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-wings.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-wingsDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-wingsDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-wingsDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-wingsDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-2-retro-wingsDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-2-retro-wingsDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-3-retro-palomino.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-3-retro-palomino.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-3-retro-palominoDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-3-retro-palominoDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-3-retro-palominoDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-3-retro-palominoDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-3-retro-palominoDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-3-retro-palominoDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-35-bred.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-35-bred.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-35-bredDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-35-bredDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-35-bredDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-35-bredDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-35-bredDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-35-bredDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-4-retro-red-cement.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-4-retro-red-cement.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-4-retro-red-cementDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-4-retro-red-cementDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-4-retro-red-cementDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-4-retro-red-cementDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-4-retro-red-cementDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-4-retro-red-cementDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-6-low-ghost-green.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-6-low-ghost-green.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-6-low-ghost-greenDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-6-low-ghost-greenDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-6-low-ghost-greenDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-6-low-ghost-greenDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-6-low-ghost-greenDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-6-low-ghost-greenDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-barcelona-days.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-barcelona-days.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-barcelona-daysDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-chambray.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-chambray.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-chambrayDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-chambrayDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-chambrayDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-chambrayDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-chambrayDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-chambrayDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-pantone.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-pantone.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-pantoneDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-pantoneDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-pantoneDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-pantoneDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-pantoneDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-pantoneDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-quai-54.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-quai-54.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-quai-54Detail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-quai-54Detail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-quai-54Detail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-quai-54Detail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-quai-54Detail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-quai-54Detail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-sweater.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-sweater.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-sweaterDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-sweaterDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-sweaterDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-sweaterDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-sweaterDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-sweaterDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-tinker-alternate.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-tinker-alternate.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-tinker-alternateDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-year-of-the-rabbit.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-year-of-the-rabbit.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-7-retro-year-of-the-rabbitDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-zion-2-se-pf-full-moon.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-zion-2-se-pf-full-moon.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail1.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\air-jordan-zion-2-se-pf-full-moonDetail2.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royal.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royal.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-2-retro-low-varsity-royalDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royal.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royal.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail1.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nike-air-jordan-legacy-312-low-white-university-red-game-royalDetail2.jpg"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\icon.png",
+      "PackagePath": "staticwebassets\\icon.png"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SHOESSTORE\\ShoeStore\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShoeStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShoeStore.props",
+      "PackagePath": "build\\ShoeStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoeStore.props",
+      "PackagePath": "buildMultiTargeting\\ShoeStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShoeStore.props",
+      "PackagePath": "buildTransitive\\ShoeStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
